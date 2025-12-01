@@ -1,4 +1,3 @@
-<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/223ef645-a406-4f1a-bafa-a9add6697d03" /><div align="center">
   <h1>Oi, sou o Nicholas! </h1>
   <h3>Analista de Dados | Business Intelligence</h3>
   
