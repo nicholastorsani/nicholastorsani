@@ -2,7 +2,7 @@
   <h3>Analista de Dados | Business Intelligence</h3>
   
   <a href="https://www.linkedin.com/in/nicholastorsani/">
-    <img src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn Badge"/>
+    <img height="30" width="40" align="center" src="https://static.vecteezy.com/system/resources/previews/018/930/480/non_2x/linkedin-logo-linkedin-icon-transparent-free-png.png" alt="LinkedIn Badge"/>
   </a>
 </div>
 
