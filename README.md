@@ -26,6 +26,10 @@ Minha trajetória é marcada pela versatilidade:
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Pandas" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
   <img align="center" alt="Numpy" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img align="center" alt="Matplotlib" height="30" width="120" src="https://miro.medium.com/v2/resize:fit:1200/1*gw2NcnIYpiBlFy4le3pF5w.png" />
+  <img align="center" alt="Plotly" height="30" width="120" src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Plotly-logo.png" />
+  <img align="center" alt="Sci-kit Learn" height="30" width="60" src="https://pt.wikipedia.org/wiki/Ficheiro:Scikit_learn_logo_small.svg" />
+  <img align="center" alt="Statsmodels" height="30" width="40" src="https://www.statsmodels.org/devel/_images/statsmodels-logo-v2.svg" />
 </div>
 
 **Banco de Dados:**
